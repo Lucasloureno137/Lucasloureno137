@@ -11,7 +11,7 @@ Estudante de **Engenharia de Software**, atualmente no 7º período, apaixonado 
 - 📊 Já atuei como **Lead Development Representative (LDR)**, sendo um dos meus principais projetos, a automação da minha antiga função.  
 
 ## 📚 Atualmente estudando:
-- **Pentest & Ethical Hacking**  
+- **Cybersegurança, Pentest & Ethical Hacking**  
 - **Automação de processos com Python**  
 - **Banco de dados & APIs**  
 
