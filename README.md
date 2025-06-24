@@ -5,13 +5,13 @@
 Estudante de **Engenharia de Software**, atualmente no 7º período, apaixonado por tecnologia, especialmente pelas áreas de **cibersegurança** e **automação**. Atualmente, estou me aprofundando em **pentest**, investigação digital, automação de processos com **Python** e API's.  
 
 ## 🚀 O que eu faço?
-- 📌 Estudo **cibersegurança**, com foco em **pentest e OSINT**  
+- 📌 Estudo **cibersegurança**, com foco em investigação digital, redes, governança e compliance. 
 - 🖥️ Desenvolvo aplicações em **Python** com **Scrapy**, APIs e Banco de Dados  
-- 🛠️ Experiência no setor comercial do mercado de software  
-- 📊 Já atuei como **Lead Development Representative (LDR)**, sendo um dos meus principais projetos, a automação da minha antiga função.  
+- 🛠️ Experiência no setor comercial do mercado de software e suporte técnico
 
 ## 📚 Atualmente estudando:
-- **Cybersegurança, Pentest & Ethical Hacking**  
+- **Cybersegurança, Pentest & Ethical Hacking**
+- **Redes**
 - **Automação de processos com Python**  
 - **Banco de dados & APIs**  
 
