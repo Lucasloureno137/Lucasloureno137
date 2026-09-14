@@ -59,16 +59,7 @@ Tenho direcionado meus estudos e projetos principalmente para **DevOps, Cloud, I
 
 ## Projetos e laboratórios
 
-Neste GitHub você encontrará projetos e laboratórios envolvendo:
-
-- Automação de infraestrutura com Ansible
-- Docker e Docker Compose
-- CI/CD
-- Linux
-- PostgreSQL
-- APIs
-- Cloud
-- Projetos acadêmicos e pessoais
+Portfolio: http://18.228.128.75/
 
 ## Onde me encontrar?
 
