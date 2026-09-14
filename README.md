@@ -17,6 +17,11 @@ Tenho direcionado meus estudos e projetos principalmente para **DevOps, Cloud, I
 
 ### Experiência prática
 
+- **PostgreSQL e SQLite**
+- **Docker**
+- **Linux e Windows Server**
+- **Git & GitHub**
+- **Jenkins**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows Server"/>
@@ -35,7 +40,6 @@ Tenho direcionado meus estudos e projetos principalmente para **DevOps, Cloud, I
 - **Terraform**
 - **Ansible**
 - **Arquitetura de Redes**
-- **PostgreSQL e Banco de Dados**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45" height="45" alt="Ansible"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
