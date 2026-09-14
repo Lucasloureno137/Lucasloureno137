@@ -45,7 +45,7 @@ Tenho direcionado meus estudos e projetos principalmente para **DevOps, Cloud, I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="GitHub Actions"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=45" alt="github" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=ubuntu&size=45" alt="ubuntu" />
