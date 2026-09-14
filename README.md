@@ -48,13 +48,13 @@ Tenho direcionado meus estudos e projetos principalmente para **DevOps, Cloud, I
 - **Ansible**
 - **Arquitetura de Redes**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45" height="45" alt="Ansible"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform"/>
+  <img src="https://skillicons.dev/icons?i=ansible" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=terraform" />
   <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="GitHub Actions"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=ubuntu&size=45" alt="ubuntu" />
+  <img src="https://skillicons.dev/icons?i=githubactions" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" />
 </p>
 
 ## Projetos e laboratórios
