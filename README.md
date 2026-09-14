@@ -48,6 +48,8 @@ Tenho direcionado meus estudos e projetos principalmente para **DevOps, Cloud, I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="GitHub Actions"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=45" alt="github" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=ubuntu&size=45" alt="ubuntu" />
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 ## Projetos e laboratórios
