@@ -24,6 +24,7 @@ Tenho direcionado meus estudos e projetos principalmente para **DevOps, Cloud, I
 - **Jenkins**
 - **Bash e PowerhShell**
 - **VSCode**
+- **Postman**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows Server"/>
