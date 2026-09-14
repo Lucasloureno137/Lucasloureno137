@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas!
 
-Sou formado em **Engenharia de Software** e atualmente atuo com **Suporte Técnico N2, Infraestrutura e Banco de Dados**, trabalhando diretamente com ambientes produtivos, troubleshooting, servidores, containers e PostgreSQL.
+Sou formado em **Engenharia de Software** e atualmente atuo como **Analista de Suporte Técnico N2, Infraestrutura e Banco de Dados** na **Aliare**, trabalhando diretamente com ambientes produtivos, troubleshooting, servidores, containers e PostgreSQL.
 
 Tenho direcionado meus estudos e projetos principalmente para **DevOps, Cloud, Infraestrutura e Automação**.
 
