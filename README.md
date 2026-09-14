@@ -30,6 +30,10 @@ Tenho direcionado meus estudos e projetos principalmente para **DevOps, Cloud, I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/>
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=powershell" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ## Atualmente estudando
