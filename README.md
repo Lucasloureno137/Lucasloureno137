@@ -2,7 +2,7 @@
 
 Sou formado em **Engenharia de Software** e atualmente atuo com **Suporte Técnico N2, Infraestrutura e Banco de Dados**, trabalhando diretamente com ambientes produtivos, troubleshooting, servidores, containers e PostgreSQL.
 
-Tenho direcionado meus estudos e projetos principalmente para **DevOps, Cloud, Infraestrutura, Automação e Banco de Dados**.
+Tenho direcionado meus estudos e projetos principalmente para **DevOps, Cloud, Infraestrutura e Automação**.
 
 ## O que eu faço?
 
