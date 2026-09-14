@@ -11,7 +11,6 @@ Tenho direcionado meus estudos e projetos principalmente para **DevOps, Cloud, I
 - Realizo instalação, atualização e manutenção de aplicações e containers **Docker**
 - Trabalho com **PostgreSQL**, consultas SQL, análise e manipulação de dados
 - Atuo com integrações, APIs REST e análise de logs
-- Desenvolvo laboratórios de automação de infraestrutura com **Ansible**
 - Estudo práticas de **CI/CD, Cloud e Infrastructure as Code**
 
 ## Tecnologias e conhecimentos
