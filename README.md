@@ -50,7 +50,6 @@ Tenho direcionado meus estudos e projetos principalmente para **DevOps, Cloud, I
 - **Arquitetura de Redes**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ansible" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=kubernetes" />
   <img src="https://skillicons.dev/icons?i=terraform" />
   <img src="https://skillicons.dev/icons?i=aws" />
