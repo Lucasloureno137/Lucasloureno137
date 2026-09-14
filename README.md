@@ -9,9 +9,9 @@ Tenho direcionado meus estudos e projetos principalmente para **DevOps, Cloud, I
 - Atuo com troubleshooting e análise de causa raiz em ambientes de produção
 - Trabalho com servidores **Linux e Windows Server**
 - Realizo instalação, atualização e manutenção de aplicações e containers **Docker**
-- Trabalho com **PostgreSQL**, consultas SQL, análise e manipulação de dados
-- Atuo com integrações, APIs REST e análise de logs
-- Estudo práticas de **CI/CD, Cloud e Infrastructure as Code**
+- Trabalho com **PostgreSQL** e **SQLite**, consultas SQL, análise e manipulação de dados
+- Atuo com integrações, APIs e análise de logs
+- Aprimorando conhecimentos em **DevOps, CI/CD, Cloud Computing, Infraestrutura como Código (IaC) e Segurança.**
 
 ## Tecnologias e conhecimentos
 
