@@ -59,7 +59,7 @@ Tenho direcionado meus estudos e projetos principalmente para **DevOps, Cloud, I
 
 ## Projetos e laboratórios
 
-Portfolio: http://18.228.128.75/
+Portfolio: [https://lucaslourencoportfolio.site/](https://lucaslourencoportfolio.site/)
 
 ## Onde me encontrar?
 
